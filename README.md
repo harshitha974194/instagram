@@ -1,2 +1,2 @@
 # instagram
-it is a leading social media app
+instagram is a leading social media app
